@@ -6,7 +6,7 @@ Oi, eu sou o Christian ✋🏽
 <div>
   <a href="https://github.com/ChrisPCruz99">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chrispcruz99&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrispcruz99&layout=compact&langs_count=16&theme=dark"/>
+    <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrispcruz99&layout=compact&langs_count=16&theme=dark"/>
     
 #### Bora Zé Tech | Generation | Zé Delivery
 ### Tecnologia em desenvolvimento

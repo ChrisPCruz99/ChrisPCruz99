@@ -3,6 +3,9 @@ Oi, eu sou o Christian ✋🏽
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5511975270880)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-patrick-992816260)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tjfaccipieri&show_icons=true&locale=en&theme=radical" alt="tjfaccipieri" style=' display: block; margin: 0 auto;' />
+  </p>
 <div>
   <a href="https://github.com/ChrisPCruz99">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chrispcruz99&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

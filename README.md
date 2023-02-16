@@ -4,7 +4,7 @@ Oi, eu sou o Christian ✋🏽
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-patrick-992816260)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tjfaccipieri&show_icons=true&locale=en&theme=radical" alt="ChrisPCruz99" style=' display: block; margin: 0 auto;' />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chrisPCruz99&show_icons=true&locale=en&theme=radical" alt="ChrisPCruz99" style=' display: block; margin: 0 auto;' />
   </p>
 <div>
   <a href="https://github.com/ChrisPCruz99">

@@ -4,9 +4,9 @@ Oi, eu sou o Christian ✋🏽
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-patrick-992816260)
 
 <div>
-  <a href="https://github.com/ChrisPCruz99">
-    <img height="180em" src="https://github-readme-stats.vercel.app/apiusername=chrispcruz99&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="151em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrispcruz99&layout=compact&langs_count=16&theme=dark"/>
+![ChrisPCruz GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisPCruz&show_icons=true&theme=dark)
+
+![ChrisPCruz Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisPCruz&layout=compact)
     
 #### Bora Zé Tech | Generation | Zé Delivery
 ### Tecnologia em desenvolvimento

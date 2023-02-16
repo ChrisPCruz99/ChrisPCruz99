@@ -8,8 +8,8 @@ Oi, eu sou o Christian ✋🏽
   </p>
 <div>
   <a href="https://github.com/ChrisPCruz99">
-    <img height="180em" src="https://github-readme-stats.vercel.app/apiusername=chrispcruz99&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="151em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrispcruz99&layout=compact&langs_count=16&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/apiusername=chrispcruz99&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="151em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrispcruz99&layout=compact&langs_count=16&theme=dark"/>
     
 #### Bora Zé Tech | Generation | Zé Delivery
 ### Tecnologia em desenvolvimento
